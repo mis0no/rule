@@ -1,6 +1,8 @@
 # Bilibili PCDN / Maoer FM
 DOMAIN-SUFFIX,solseedr.cn
 DOMAIN-SUFFIX,solseed.cn
+DOMAIN-WILDCARD,*pcdn*.biliapi.net
+DOMAIN-SUFFIX,szbdyd.com
 # Pai Ou Cloud PCDN
 DOMAIN-SUFFIX,ppgslb.cn
 DOMAIN-SUFFIX,eeeam.com
